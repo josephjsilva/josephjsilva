@@ -2,7 +2,7 @@
 - 👀 I’m interested in Vulnerability Analysis, Threat Hunting, Automation
 - 🌱 I’m currently learning Vulnerability Analysis, Threat Hunting, Automation with Python
 - 💞️ I’m looking to collaborate on Automation with Python
-- 📫 How to reach me https://twitter.com/josephjsilva
+- 📫 How to reach me https://www.linkedin.com/in/josephjsilva/
 
 # Joseph J. Silva
 

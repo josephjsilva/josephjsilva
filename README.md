@@ -12,8 +12,8 @@ Strategic, multi-faceted, process-oriented Information Security Leader with a pr
 ## Experience
 
 ### RSM (sub ExcelGens)
-**IAM Consultant
-*Apr 2025 – Present
+**IAM Consultant**  
+*Apr 2025 – Present*  
 - Providing IAM consulting and identity risk analysis to a global client. Guiding best practices for persona development. Conducting workshops for role-mining and privilege access assessments.
 - Cataloguing job junctions and application roles and permissions. Creating and documenting role mapping processes for IAM analysts.
 - Acting as subject matter expert for IAM and IGA process and procedures including implementation of RBAC, ABAC, and ReBAC models.

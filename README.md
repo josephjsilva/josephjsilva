@@ -11,9 +11,18 @@ Strategic, multi-faceted, process-oriented Information Security Leader with a pr
 
 ## Experience
 
+### RSM (sub ExcelGens)
+**IAM Consultant
+*Apr 2025 – Present
+- Providing IAM consulting and identity risk analysis to a global client. Guiding best practices for persona development. Conducting workshops for role-mining and privilege access assessments.
+- Cataloguing job junctions and application roles and permissions. Creating and documenting role mapping processes for IAM analysts.
+- Acting as subject matter expert for IAM and IGA process and procedures including implementation of RBAC, ABAC, and ReBAC models.
+- Consulting with security leadership team on persona development, identity governance, and insider threat assessment.
+
+
 ### Kelly-Moore Paint Company, Inc
 **IT Director Data & GRC**  
-*2023 – Present*  
+*Jan 2023 – Dec 2024*  
 - Oversight of cybersecurity program and guidance for IT teams in compliance with security controls.
 - Architected and designed a master data model and a persona-based identity model for entitlement.
 - Ensured compliance with CCPA/CPRA and PCI-DSS, and led incident response initiatives.
@@ -24,7 +33,7 @@ Strategic, multi-faceted, process-oriented Information Security Leader with a pr
 - Redesigned user lifecycle policies and security controls, reducing error rates and identity management risks.
 
 **HRIS and IAM Manager**  
-*2016 – 2023*  
+*Jan 2016 – Dec 2022*  
 - Supported HR systems, managed employee data and Identity Automation.
 - Implemented multifactor authentication and automated provisioning.
 - Provided advanced technical support to IT, HR, and Accounting teams.
@@ -34,7 +43,7 @@ Strategic, multi-faceted, process-oriented Information Security Leader with a pr
 - Integrated several employee-related third-party vendors with Enterprise SSO and Federation.
 
 **Applications Manager**  
-*2011 – 2015*  
+*Apr 2011 – Dec 2015*  
 - Provided technical and business process support for HR and IT departments.
 - Managed relationships with HR-related vendors and integrated key projects.
 
@@ -44,7 +53,7 @@ Strategic, multi-faceted, process-oriented Information Security Leader with a pr
 
 ### LECG, LLC
 **Sr. Applications Developer**  
-*2008 – 2011*  
+*Jun 2008 – Mar 2011*  
 - Developed custom solutions for Accounting, Human Resources, and Operations.
 - Administered key billing, databases, Datawarehouse, and reporting systems.
 
@@ -60,26 +69,27 @@ Strategic, multi-faceted, process-oriented Information Security Leader with a pr
 
 ### Teleset, Inc.
 **Director of Operations**  
-*2003 – 2004*  
+*Mar 2003 – Mar 2004*  
 - Directed operations for a business telecom and networking company.
 
 ### Peet’s Coffee & Tea
 **IT Director**  
-*2000 – 2003*  
+*Jan 2000 – Mar 2003*  
 - Managed IT operations and special projects with a focus on service delivery and application management.
 
 ## Education
-- **WGU Information Technology Management B.S. (currently enrolled)**
+- **WGU Information Technology Management B.S.**
 - **Certifications:**
   - ISC2 Certified Information Systems Security Professional (CISSP)
   - ISC2 Certified Cloud Security Professional (CCSP)
   - Certified Identity and Access Manager (CIAM)
-  - ITIL 4 Foundation
-  - ServiceNow Certified Developer
-  - CompTIA CySA+, Security+, PenTest+, Project+, Network+, A+
+  - Google Cloud Digital Leader
+  - Google Cloud Professional Cloud Architect
   - AWS Certified Cloud Practitioner
+  - CompTIA SecurityX, CySA+, Security+, PenTest+, Project+, Network+, A+
+  - ITIL 4 Foundation
   - LPI Linux certified
-  - PMI PMP (in progress)
+  - ServiceNow Certified Developer
 
 ## Skills
 - Azure EntraID Administration
@@ -94,7 +104,7 @@ Strategic, multi-faceted, process-oriented Information Security Leader with a pr
 - Learning Management Systems (LMS)
 - Basic Forensics (Autopsy)
 - Microsoft SQL
-- Vulcan (semi-fluent)
+- Bocce (fluent)
 
 ## Projects
 - Home lab with "Wazuh - Open Source XDR, SIEM" and setup VMs to test Nessus scans.
